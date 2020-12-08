@@ -1,4 +1,8 @@
-# Weakly Supervised Person Re-ID: Differentiable Graphical Learning and A New Benchmark
+---
+layout: post
+title: Weakly Supervised Person Re-ID: Differentiable Graphical Learning and A New Benchmark
+---
+
 代码地址：https://github.com/wanggrun/SYSU-30k
 
 # 概括
