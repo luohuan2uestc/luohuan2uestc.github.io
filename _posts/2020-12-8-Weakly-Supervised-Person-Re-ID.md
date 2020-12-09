@@ -3,7 +3,7 @@ layout: post
 title: Weakly Supervised Person Re-ID Differentiable Graphical Learning and A New Benchmark 
 ---
 
-代码地址：https://github.com/wanggrun/SYSU-30k
+代码地址：https://github.com/wanggrun/SYSU-30k.
 
 # 概括
 - 作者首先爬取了大量的互联网数据（大部分是T台走秀数据），然后将这些数据进行随机截断分为很多小段的视频，得到的就是作者称为弱标注的bag标签。
